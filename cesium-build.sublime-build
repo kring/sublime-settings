@@ -1,0 +1,4 @@
+{
+    "shell_cmd": "C:\\github\\cesium\\Tools\\apache-ant-1.8.2\\bin\\ant build",
+    "working_dir": "C:\\github\\cesium"
+}
